@@ -1,6 +1,3 @@
-# ALM_Gruppuppgift
-
-
  ## PROJECT RULES
  
  
